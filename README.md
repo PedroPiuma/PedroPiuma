@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá, eu sou o Luís Pedro 👋
 
-<!--
-**PedroPiuma/PedroPiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **PedroPiuma/PedroPiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estou estudando JavaScript diariamente,
+      além de marcação HTML e CSS
+- 👯 Gosto procurar desenvolver cooperação entre colegas
+- 🤔 Procuro descobrir ainda se irei ingressar no mercado de trabalho como fullstack ou como front-end
+- 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos
+- 📫 É possível me encontrar nas seguintes redes sociais:<br>
+             - <a href="https://www.instagram.com/pedro.piuma/">Instagram</a><br>
+             - <a href="https://www.linkedin.com/in/lu%C3%ADs-pedro-pi%C3%BAma-90b8a212b/">LinkedIn</a><br>
+             - <a href="https://www.facebook.com/luis.piuma.1/">Facebook</a><br>
+             -  ou ainda contato por email - luisppiuma@gmail.com

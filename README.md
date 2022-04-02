@@ -4,7 +4,7 @@
 
 - 🌱 Estou estudando JavaScript diariamente,
       além de marcação HTML e CSS
-- 👯 Gosto procurar desenvolver cooperação entre colegas
+- 👯 Gosto de desenvolver cooperação entre colegas
 - 🤔 Procuro descobrir ainda se irei ingressar no mercado de trabalho como fullstack ou como front-end
 - 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos
 - 📫 É possível me encontrar nas seguintes redes sociais:<br>

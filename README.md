@@ -2,7 +2,7 @@
 
 <!-- **PedroPiuma/PedroPiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 Estou estudando JavaScript diariamente,
+- 🌱 Estou estudando JavaScript/ReactJS diariamente,
       além de marcação HTML e CSS
 - 👯 Gosto de desenvolver cooperação e trabalho em equipe
 - 🤔 Procuro descobrir ainda se irei ingressar no mercado de trabalho como fullstack ou como front-end

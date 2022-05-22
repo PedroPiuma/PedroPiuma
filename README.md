@@ -3,9 +3,9 @@
 <!-- **PedroPiuma/PedroPiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - 🌱 Estou estudando JavaScript/ReactJS diariamente,
-      além de marcação HTML e CSS
+      além de marcação HTML e CSS com Chakra-UI
 - 👯 Gosto de desenvolver cooperação e trabalho em equipe
-- 🤔 Procuro descobrir ainda se irei ingressar no mercado de trabalho como fullstack ou como front-end
+- 🤔 Irei ingressar no mercado de trabalho como fullstack ou como front-end
 - 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos
 - 📫 É possível me encontrar nas seguintes redes sociais:<br>
              - <a href="https://www.instagram.com/pedro.piuma/">Instagram</a><br>

@@ -4,7 +4,7 @@
 
 - 🌱 Estou estudando JavaScript/ReactJS diariamente,
       além de marcação HTML e CSS com Chakra-UI
-- 👯 Gosto de desenvolver cooperação e trabalho em equipe
+- 👨‍💻 Gosto de desenvolver cooperação e trabalho em equipe
 - 🤔 Irei ingressar no mercado de trabalho como fullstack ou como front-end
 - 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos
 - 📫 É possível me encontrar nas seguintes redes sociais:<br>

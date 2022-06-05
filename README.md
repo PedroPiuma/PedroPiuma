@@ -2,10 +2,11 @@
 
 <!-- **PedroPiuma/PedroPiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 Estou estudando JavaScript/ReactJS diariamente,
-      além de marcação HTML e CSS com Chakra-UI
+- 🌱 Estudando JavaScript/ReactJS e CSS com Chakra-UI
+- 🌎 Atualmente em Pelotas - RS
 - 👨‍💻 Gosto de desenvolver cooperação e trabalho em equipe
-- 🤔 Irei ingressar no mercado de trabalho como fullstack ou como front-end
+- 🤔 Em busca do primeiro emprego como Front-End
+- 👨‍🎓 Estudei química 4 anos e migrei para Engenharia da Computação (Status: Homologado na UFPel)
 - 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos
 - 📫 É possível me encontrar nas seguintes redes sociais:<br>
              - <a href="https://www.instagram.com/pedro.piuma/">Instagram</a><br>

@@ -10,7 +10,6 @@
              - <a href="https://www.instagram.com/pedro.piuma/">Instagram</a><br>
              - <a href="https://www.linkedin.com/in/lu%C3%ADs-pedro-pi%C3%BAma-90b8a212b/">LinkedIn</a><br>
              - <a href="https://www.facebook.com/luis.piuma.1/">Facebook</a>             
-             - ou ainda contato por email - luisppiuma@gmail.com<br>
-             - GitHub.io:
-             Link: <a href="https://pedropiuma.github.io/">pedropiuma.github.io</a><br>
+             - luisppiuma@gmail.com<br>
+             - GitHub.io: <a href="https://pedropiuma.github.io/">pedropiuma.github.io</a><br>
 

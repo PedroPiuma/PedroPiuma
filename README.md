@@ -2,7 +2,7 @@
 
 <!-- **PedroPiuma/PedroPiuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🌱 Estudando JavaScript/ReactJS e CSS com Chakra-UI
+- 🌱 Estudei JavaScript/ReactJS e CSS com Chakra-UI
 - 🌎 Atualmente em Palhoça - SC
 - 👨‍💻 Trabalhando como Desenvolvedor Front-End Jr no grupo Essentia
 - 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos

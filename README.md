@@ -8,8 +8,7 @@
 - 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos
 - 📫 É possível me encontrar nas seguintes redes sociais:<br>
              - <a href="https://www.instagram.com/pedro.piuma/">Instagram</a><br>
-             - <a href="https://www.linkedin.com/in/lu%C3%ADs-pedro-pi%C3%BAma-90b8a212b/">LinkedIn</a><br>
-             - <a href="https://www.facebook.com/luis.piuma.1/">Facebook</a>             
+             - <a href="https://www.linkedin.com/in/lu%C3%ADs-pedro-pi%C3%BAma-90b8a212b/">LinkedIn</a><br>                         
              - luisppiuma@gmail.com<br>
              - GitHub.io: <a href="https://pedropiuma.github.io/">pedropiuma.github.io</a><br>
 

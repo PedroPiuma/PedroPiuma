@@ -4,7 +4,7 @@
 
 - 🌱 Estudei JavaScript/ReactJS e CSS com Chakra-UI
 - 🌎 Atualmente em Palhoça - SC
-- 👨‍💻 Trabalhando como Desenvolvedor Front-End Jr no grupo Essentia
+- 👨‍💻 Trabalhando como Desenvolvedor Front-End Jr no grupo Essentia com E-mail Marketing e estudando Vue.
 - 💬 Estou disponível para quaisquer questões e curiosidades sobre meus projetos
 - 📫 É possível me encontrar nas seguintes redes sociais:<br>
              - <a href="https://www.instagram.com/pedro.piuma/">Instagram</a><br>
